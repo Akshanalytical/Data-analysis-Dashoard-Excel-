@@ -29,3 +29,5 @@ Excel | Data Analysis | Data Visualization | Dashboard Development | Conditional
 # Data set used
 - <a href="https://github.com/Akshanalytical/Data-analysis-Dashoard-Excel-/blob/main/Speedometer_Dashboard_BY_AKSH.xlsx">Dataset</a>
 
+- Dashboard Interaction <a href="https://github.com/Akshanalytical/Data-analysis-Dashoard-Excel-/blob/main/Screenshot%202026-09-26%20212345.png">view Dashboard</a>
+
