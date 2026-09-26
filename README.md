@@ -31,3 +31,6 @@ Excel | Data Analysis | Data Visualization | Dashboard Development | Conditional
 
 - Dashboard Interaction <a href="https://github.com/Akshanalytical/Data-analysis-Dashoard-Excel-/blob/main/Screenshot%202026-09-26%20212345.png">view Dashboard</a>
 
+<img width="1809" height="684" alt="Screenshot 2026-09-26 212345" src="https://github.com/user-attachments/assets/5369cdc2-1e48-49bb-9dc3-e2c2f015928d" />
+
+
